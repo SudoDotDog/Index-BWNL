@@ -6,6 +6,6 @@ Vocabulary Ordered
 
 ### [BWNL-Print](//github.com/SudoDotDog/Sudoo-Print)
 
--   Environment: Web
+-   Environment: Browser
 -   [Document](//print.bwnl.io)
 -   [NPM](//www.npmjs.com/package/@bwnl/print)
