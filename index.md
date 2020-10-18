@@ -4,7 +4,9 @@ This site is an index of `bwnl` packages and documents. Visit the Github page fo
 
 ## Overview
 
-BWNL packages are some `JavaScript NPM` packages, focusing on `React` rendering components.
+BWNL packages are some `JavaScript NPM` packages, focusing on `React` rendering components. Some contain React UI components, most doesn't.
+
+> BWNL stand for Black, White, Neon, Lime which is the theme color of the UI components.
 
 ## Dictionary, Source and Document
 
