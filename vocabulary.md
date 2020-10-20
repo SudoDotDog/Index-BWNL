@@ -4,7 +4,7 @@ Vocabulary Ordered
 
 ## P
 
-### [BWNL-Print](//github.com/SudoDotDog/Sudoo-Print)
+### [BWNL-Print](//github.com/SudoDotDog/BWNL-Print)
 
 -   Environment: Browser
 -   [Document](//print.bwnl.io)
