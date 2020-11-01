@@ -8,6 +8,11 @@ BWNL packages are some `JavaScript NPM` packages, focusing on `React` rendering 
 
 > BWNL stand for Black, White, Neon, Lime which is the theme color of the UI components.
 
+## Progress
+
+Currently only **25%** of package documents are indexed.  
+Other package indexing and documenting are work in progress.
+
 ## Dictionary, Source and Document
 
 -   Table Ordered > [Table Ordered Dictionary](./table)
