@@ -18,6 +18,14 @@ Vocabulary Ordered
 -   [Document](//introduction.bwnl.io)
 -   [NPM](//www.npmjs.com/package/@bwnl/introduction)
 
+## L
+
+### [BWNL-Listener](//github.com/SudoDotDog/BWNL-Listener)
+
+-   Environment: Browser
+-   [Document](//listener.bwnl.io)
+-   [NPM](//www.npmjs.com/package/@bwnl/listener)
+
 ## P
 
 ### [BWNL-Print](//github.com/SudoDotDog/BWNL-Print)
