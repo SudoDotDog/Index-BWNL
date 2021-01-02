@@ -2,6 +2,14 @@
 
 Vocabulary Ordered
 
+## D
+
+### [BWNL-Dismiss](//github.com/SudoDotDog/BWNL-Dismiss)
+
+-   Environment: Browser
+-   [Document](//dismiss.bwnl.io)
+-   [NPM](//www.npmjs.com/package/@bwnl/dismiss)
+
 ## H
 
 ### [BWNL-Horizon-React](//github.com/SudoDotDog/BWNL-Horizon-React)
