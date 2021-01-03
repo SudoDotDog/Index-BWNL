@@ -10,6 +10,12 @@ Vocabulary Ordered
 -   [Document](//dismiss.bwnl.io)
 -   [NPM](//www.npmjs.com/package/@bwnl/dismiss)
 
+### [BWNL-Download](//github.com/SudoDotDog/BWNL-Download)
+
+-   Environment: Browser
+-   [Document](//download.bwnl.io)
+-   [NPM](//www.npmjs.com/package/@bwnl/downloader)
+
 ## H
 
 ### [BWNL-Horizon-React](//github.com/SudoDotDog/BWNL-Horizon-React)
