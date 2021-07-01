@@ -1,4 +1,4 @@
-# BWNL Package Index
+# BWNL Packages Index
 
 This site is an index of `bwnl` packages and documents. Visit the Github page for more details.
 
