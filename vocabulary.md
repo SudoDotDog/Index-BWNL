@@ -1,3 +1,8 @@
+---
+title: Dictionary
+layout: default
+---
+
 # Dictionary
 
 Vocabulary Ordered
